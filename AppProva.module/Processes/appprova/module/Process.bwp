@@ -327,7 +327,6 @@
                                     <value
                                     endTime="2018-03-19T07:17:29.262-0700"
                                     intervalUnit="Second"
-                                    runOnce="true"
                                     startTime="2018-03-19T07:17:29.262-0700"
                                     timeInterval="1" xsi:type="generalactivities:Timer"/>
                                 </properties>
